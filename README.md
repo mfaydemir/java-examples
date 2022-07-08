@@ -47,4 +47,9 @@ T1 ve T2 verilen iki tarih ise T1 + T2 işlem sonucudur
 
 15. Bir listeyi diziye, bir diziyi listeye çeviren program
 
+--EXTRA
+  Yöntemin işlem süresini belirleyen Java Programını yazın
+    **: Yönteme başlamadan zaman mikrosaniye cinsinden alınır. İşlem bitince
+    ikinci süre alınır. İki süre arasındaki fark yöntemin çalışma zamanıdır.
+
 */
